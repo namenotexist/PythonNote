@@ -14,6 +14,7 @@
             - isAlive()
             - getName()
             - setName()
+- 多线程
 ```
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
@@ -105,7 +106,7 @@ print("Exiting Main Thread")
 ```
 
 
-
+- 队列与线程同步
 ```
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
