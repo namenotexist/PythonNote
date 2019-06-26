@@ -1,0 +1,2 @@
+- some useful python usage
+- update since 2019/06/26
